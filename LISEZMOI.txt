@@ -1,0 +1,8 @@
+ATLAS — mise en ligne sur Vercel depuis l'iPhone
+
+1. github.com (Safari) > ton repo de l'app (ou "New repository")
+2. "Add file" > "Upload files" > sélectionne TOUS les fichiers de ce dossier
+   (index.html, manifest.json, vercel.json, icon-180.png, icon-512.png) > Commit
+3. vercel.com > "Add New" > "Project" > importe le repo > Deploy
+   (si le repo est déjà relié à Vercel, il redéploie tout seul après le commit)
+4. Ouvre l'URL dans Safari > Partager > "Sur l'écran d'accueil"
